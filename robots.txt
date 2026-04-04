@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bankruptcynewyork.org/sitemap.xml
