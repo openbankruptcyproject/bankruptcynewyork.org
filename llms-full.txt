@@ -6,15 +6,17 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## New York Bankruptcy Statistics -- Chapter 13 Dismissal Rates [2026]
+## New York Bankruptcy Statistics - Chapter 13 Dismissal Rates [2026]
 Source: https://bankruptcynewyork.org/
 
+Skip to main content
+
 Bankruptcy New York
-HomeStatisticsWhat to KnowResourcesOBP
+HomeStatisticsWhat to KnowResourcesOBP Rule 9037 PII Scanner
 
-New York Bankruptcy Statistics -- Chapter 13 Dismissal Data
+New York Bankruptcy Statistics - Chapter 13 Dismissal Data
 
-Federal court data from 52,527 cases shows that 85.6% of Chapter 13 filings in the Eastern District ended in dismissal (2008-2019 mature data) -- the highest rate among all 94 federal districts.
+Federal court data from 52,527 cases shows that 85.6% of Chapter 13 filings in the Eastern District ended in dismissal (2008-2019 mature data) - the highest rate among all 94 federal districts.
 
 EDNY: 99.2% dismissal rate in 2023--2024
 
@@ -44,11 +46,11 @@ Highest Nationally
 
 EDNY Dismissal Rate by Year (2008--2024)
 
-Chapter 13 Dismissal Rate -- Eastern District of New York
+Chapter 13 Dismissal Rate - Eastern District of New York
 
 Source: Federal Judicial Center Integrated Database, 2008--2024. Analysis by Open Bankruptcy Project.
 
-Methodology note: Chapter 13 plans run 3-5 years. Cases filed 2020-2024 are preliminary -- successful plans are still active, so only early dismissals are reflected. The headline rate uses 2008-2019 data where most cases have reached final disposition. Source: Federal Judicial Center Integrated Database.
+Methodology note: Chapter 13 plans run 3-5 years. Cases filed 2020-2024 are preliminary - successful plans are still active, so only early dismissals are reflected. The headline rate uses 2008-2019 data where most cases have reached final disposition. Source: Federal Judicial Center Integrated Database.
 
 New York District Comparison
 
@@ -56,17 +58,17 @@ Eastern District (EDNY)
 
 85.6%
 
-52,527 cases filed -- 43,991 dismissed, only 5,905 discharged. 53.1% pro se rate. 42.0% prior filer rate. An estimated 374 potential 1328(f) violations. Ranked #1 highest nationally.
+52,527 cases filed - 43,991 dismissed, only 5,905 discharged. 53.1% pro se rate. 42.0% prior filer rate. An estimated 374 potential 1328(f) violations. Ranked #1 highest nationally.
 
-Brooklyn (271-C Cadman Plaza East) -- Central Islip (290 Federal Plaza)
+Brooklyn (271-C Cadman Plaza East) - Central Islip (290 Federal Plaza)
 
 Southern District (SDNY)
 
 59.0%
 
-25,112 cases filed -- 12,973 dismissed, 9,005 discharged. 18.9% pro se rate. 24.9% prior filer rate. An estimated 457 potential 1328(f) violations.
+25,112 cases filed - 12,973 dismissed, 9,005 discharged. 18.9% pro se rate. 24.9% prior filer rate. An estimated 457 potential 1328(f) violations.
 
-Manhattan -- White Plains
+Manhattan - White Plains
 
 Western District (WDNY)
 
@@ -74,7 +76,7 @@ Western District (WDNY)
 
 23,717 cases filed. A significantly better rate than EDNY, but still above the national median.
 
-Buffalo -- Rochester
+Buffalo - Rochester
 
 Northern District (NDNY)
 
@@ -82,7 +84,7 @@ Northern District (NDNY)
 
 26,604 cases filed. The lowest dismissal rate among New York districts, with outcomes closer to national averages.
 
-Albany -- Syracuse -- Utica
+Albany - Syracuse - Utica
 
 Key Statistics
 
@@ -90,21 +92,21 @@ EDNY: Highest Dismissal Rate Nationally
 
 The Eastern District of New York is a significant statistical outlier. The data shows a clear pattern:
 
-99.2% dismissal rate in 2023 and 2024 -- very few cases have reached discharge so far (preliminary data)
+99.2% dismissal rate in 2023 and 2024 - very few cases have reached discharge so far (preliminary data)
 
-53.1% pro se rate -- more than half of filers have no attorney
+53.1% pro se rate - more than half of filers have no attorney
 
-42.0% prior filer rate -- nearly half have filed at least once before
+42.0% prior filer rate - nearly half have filed at least once before
 
-Trend is worsening -- from 78.8% in 2010 to 99.2% in 2024
+Trend is worsening - from 78.8% in 2010 to 99.2% in 2024
 
-Only 5,905 discharges out of 52,527 filings -- an 11.2% success rate
+Only 5,905 discharges out of 52,527 filings - an 11.2% success rate
 
 A 99.2% preliminary dismissal rate indicates that very few recent filers in this district are completing their Chapter 13 plans, though some active plans may still reach discharge.
 
 The Repeat Filer Cycle
 
-42% of EDNY filers have filed bankruptcy before. Many of these prior filers may be ineligible for discharge under 11 U.S.C. section 1328(f), which bars repeat discharges within certain timeframes. An estimated 374 cases may involve filings where discharge was not legally available -- meaning these filers entered the system and paid fees for cases that could not result in a discharge.
+42% of EDNY filers have filed bankruptcy before. Many of these prior filers may be ineligible for discharge under 11 U.S.C. section 1328(f), which bars repeat discharges within certain timeframes. An estimated 374 cases may involve filings where discharge was not legally available - meaning these filers entered the system and paid fees for cases that could not result in a discharge.
 
 Frequently Asked Questions
 
@@ -169,6 +171,10 @@ Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 © 2026 Open Bankruptcy Project. GitHub
+
+Privacy Policy
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 Have a Question?
 
@@ -256,13 +262,157 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## EDNY Chapter 13 Statistics -- Year-by-Year Data | Bankruptcy New York
+## New York Bankruptcy Resources - Courts, Legal Aid, Free Tools | Bankruptcy New York
+Source: https://bankruptcynewyork.org/resources.html
+
+Bankruptcy New York
+HomeStatisticsWhat to KnowResourcesOBP
+
+Home›New York Bankruptcy Resources - Courts, Legal Aid, Free Tools | Bankruptcy New York›New York Bankruptcy Resources
+
+New York Bankruptcy Resources
+
+Courts, legal aid organizations, free tools, and research resources for New York bankruptcy filers.
+
+Federal Bankruptcy Courts - New York
+
+Eastern District of New York (EDNY)
+
+nyeb.uscourts.gov
+
+Brooklyn: 271-C Cadman Plaza East, Brooklyn, NY 11201. Central Islip: 290 Federal Plaza, Central Islip, NY 11722.
+
+Southern District of New York (SDNY)
+
+nysb.uscourts.gov
+
+One Bowling Green, New York, NY 10004.
+
+Western District of New York (WDNY)
+
+nywb.uscourts.gov
+
+Olympic Towers, 300 Pearl Street, Buffalo, NY 14202.
+
+Northern District of New York (NDNY)
+
+nynb.uscourts.gov
+
+James T. Foley U.S. Courthouse, 445 Broadway, Albany, NY 12207.
+
+Legal Aid and Pro Bono Services
+
+Legal Aid Society - New York City
+
+legalaidnyc.org
+
+Free legal services for low-income New Yorkers. Civil practice includes bankruptcy assistance.
+
+New York Legal Assistance Group (NYLAG)
+
+nylag.org
+
+Free bankruptcy clinics and full-representation bankruptcy assistance for qualifying individuals.
+
+Brooklyn Bar Association Volunteer Lawyers Project
+
+brooklynbar.org
+
+Pro bono legal assistance including bankruptcy matters for qualifying Brooklyn residents.
+
+Nassau/Suffolk Law Services
+
+nslawservices.org
+
+Free civil legal services for Long Island residents, including bankruptcy assistance.
+
+Free Screening and Research Tools
+
+1328(f) Discharge Eligibility Screener
+
+1328f.com
+
+Free tool to check whether a prior discharge creates a time bar under 11 U.S.C. section 1328(f). Runs entirely in your browser - no data collected.
+
+Open Bankruptcy Project
+
+openbankruptcyproject.org
+
+National research platform analyzing Chapter 13 outcomes across all 94 federal districts. Open-source data and methodology.
+
+1328(f) Research Platform
+
+1328f.org
+
+In-depth research on repeat filing patterns and 1328(f) eligibility violations in the federal bankruptcy system.
+
+Federal Resources
+
+U.S. Trustee Program
+
+justice.gov/ust
+
+The DOJ component responsible for overseeing the administration of bankruptcy cases. File complaints about attorney misconduct or trustee issues.
+
+PACER - Public Access to Court Electronic Records
+
+pacer.uscourts.gov
+
+Access federal court records including bankruptcy dockets. Fee-based ($0.10/page, capped at $3.00/document).
+
+Federal Judicial Center - Integrated Database
+
+fjc.gov/research/idb
+
+The source database for all statistics on this site. Public data on all federal court cases.
+
+More from the OBP Network
+
+Chapter 7 vs. Chapter 13
+
+chapter7vs13.org
+
+Side-by-side comparison to help understand which chapter may be appropriate.
+
+Bankruptcy Dismissed - What Now?
+
+bankruptcydismissed.com
+
+Information for people whose bankruptcy case was dismissed - next steps and options.
+
+Can I File Bankruptcy Again?
+
+filebankruptcyagain.com
+
+Time bar rules and eligibility information for repeat filers.
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+An Open Bankruptcy Project resource
+
+This is general information, not legal advice. Consult a qualified attorney.
+
+© 2026 Open Bankruptcy Project
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Free Means Test Calculator -- meanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+---
+
+## EDNY Chapter 13 Statistics - Year-by-Year Data | Bankruptcy New York
 Source: https://bankruptcynewyork.org/statistics.html
 
 Bankruptcy New York
 HomeStatisticsWhat to KnowResourcesOBP
 
-EDNY Chapter 13 Statistics -- Complete Data
+Home›EDNY Chapter 13 Statistics - Year-by-Year Data | Bankruptcy New York›EDNY Chapter 13 Statistics - Complete Data
+
+EDNY Chapter 13 Statistics - Complete Data
 
 Year-by-year breakdown of Chapter 13 bankruptcy outcomes in the Eastern District of New York. All data sourced from the Federal Judicial Center Integrated Database.
 
@@ -290,7 +440,7 @@ Est. 1328(f) Violations
 
 2024 Dismissal Rate
 
-Year-by-Year Breakdown -- EDNY
+Year-by-Year Breakdown - EDNY
 
 YearCases FiledDismissal RatePrior Filer RateTrend
 
@@ -328,15 +478,15 @@ YearCases FiledDismissal RatePrior Filer RateTrend
 
 2024*3,97599.2%51.9%0.0
 
-* Preliminary -- Chapter 13 plans run 3-5 years, so successful plans filed in these years are still active. Only early dismissals are reflected.
+* Preliminary - Chapter 13 plans run 3-5 years, so successful plans filed in these years are still active. Only early dismissals are reflected.
 
-Methodology note: Chapter 13 plans run 3-5 years. Cases filed 2020-2024 are preliminary -- successful plans are still active, so only early dismissals are reflected. The headline rate uses 2008-2019 data where most cases have reached final disposition. Source: Federal Judicial Center Integrated Database.
+Methodology note: Chapter 13 plans run 3-5 years. Cases filed 2020-2024 are preliminary - successful plans are still active, so only early dismissals are reflected. The headline rate uses 2008-2019 data where most cases have reached final disposition. Source: Federal Judicial Center Integrated Database.
 
 Prior Filer Analysis
 
 The Cycle of Failure
 
-The prior filer rate in EDNY has grown from 24.7% in 2008 to over 50% in recent years. This means more than half of people filing Chapter 13 in EDNY have been through the process before -- and failed.
+The prior filer rate in EDNY has grown from 24.7% in 2008 to over 50% in recent years. This means more than half of people filing Chapter 13 in EDNY have been through the process before - and failed.
 
 At its peak in 2022, 56.4% of all filers were repeat filers. The correlation between prior filing rates and dismissal rates is strong: as more repeat filers enter the system, the overall dismissal rate climbs.
 
@@ -346,15 +496,15 @@ Volume and Capacity Trends
 
 EDNY case volume has swung dramatically:
 
-2008--2010: ~3,400 cases/year -- high volume, high dismissal
+2008--2010: ~3,400 cases/year - high volume, high dismissal
 
-2011--2014: Drop to ~1,600 cases/year -- lower volume, lower dismissal
+2011--2014: Drop to ~1,600 cases/year - lower volume, lower dismissal
 
-2015--2019: Surge to 6,500+ cases/year -- rates climb past 90%
+2015--2019: Surge to 6,500+ cases/year - rates climb past 90%
 
 2020--2021: COVID drop to 481 cases in 2021
 
-2022--2024: Recovery to ~3,900 cases -- but 99.2% dismissed
+2022--2024: Recovery to ~3,900 cases - but 99.2% dismissed
 
 The post-COVID surge to near-100% dismissal suggests the system is no longer functioning as designed for consumers in this district.
 
@@ -364,7 +514,7 @@ EDNY's dismissal rate has risen 20+ percentage points since 2010
 
 The prior filer rate more than doubled from 2008 to 2022
 
-Over 53% of filers have no attorney -- the highest pro se rate of any major district
+Over 53% of filers have no attorney - the highest pro se rate of any major district
 
 Only 5,905 out of 52,527 filers received a discharge (11.2%)
 
@@ -400,33 +550,35 @@ Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
 ---
 
-## What to Know About Chapter 13 in New York -- Consumer Guide | Bankruptcy New York
+## What to Know About Chapter 13 in New York - Consumer Guide | Bankruptcy New York
 Source: https://bankruptcynewyork.org/what-to-know.html
 
 Bankruptcy New York
 HomeStatisticsWhat to KnowResourcesOBP
 
+Home›What to Know About Chapter 13 in New York - Consumer Guide | Bankruptcy New York›What New York Consumers Should Know About Chapter 13
+
 What New York Consumers Should Know About Chapter 13
 
-If you are considering Chapter 13 bankruptcy in New York -- or have already filed and been dismissed -- this page explains what the data means for you and what questions to ask.
+If you are considering Chapter 13 bankruptcy in New York - or have already filed and been dismissed - this page explains what the data means for you and what questions to ask.
 
 Key District Data
 
-In the Eastern District of New York, 99.2% of Chapter 13 cases filed in 2023 and 2024 ended in dismissal (preliminary data -- active plans may still reach discharge). Over 53% of filers had no attorney. Nearly half were repeat filers. This district has the highest Chapter 13 dismissal rate in the federal court system.
+In the Eastern District of New York, 99.2% of Chapter 13 cases filed in 2023 and 2024 ended in dismissal (preliminary data - active plans may still reach discharge). Over 53% of filers had no attorney. Nearly half were repeat filers. This district has the highest Chapter 13 dismissal rate in the federal court system.
 
 What Does "Dismissed" Mean?
 
 When a Chapter 13 case is dismissed, it means the repayment plan failed and the case was thrown out. The debtor does not receive a discharge of their debts. Common causes include:
 
-Missed plan payments -- failing to make required monthly payments to the trustee
+Missed plan payments - failing to make required monthly payments to the trustee
 
-Failure to file required documents -- tax returns, pay stubs, financial management certificates
+Failure to file required documents - tax returns, pay stubs, financial management certificates
 
-Plan not confirmable -- the proposed plan does not meet legal requirements
+Plan not confirmable - the proposed plan does not meet legal requirements
 
-Ineligibility -- the debtor was never eligible to file (including 1328(f) time bars)
+Ineligibility - the debtor was never eligible to file (including 1328(f) time bars)
 
-Voluntary dismissal -- the debtor asks the court to dismiss
+Voluntary dismissal - the debtor asks the court to dismiss
 
 When a case is dismissed, creditor protections (the automatic stay) end, and creditors can resume collection activity. The debtor has spent time and money with nothing to show for it.
 
@@ -436,7 +588,7 @@ A dismissal rate of 88.2% (or 99.2% in recent years) does not mean your case wil
 
 This district has a higher-than-average dismissal rate that affects most filers
 
-You need excellent legal representation -- pro se filers (no attorney) have even worse outcomes
+You need excellent legal representation - pro se filers (no attorney) have even worse outcomes
 
 If you have filed before, you should verify your eligibility under 1328(f) before paying any fees
 
@@ -472,39 +624,39 @@ Red Flags to Watch For
 
 Warning Signs
 
-No eligibility screening -- the firm does not check your prior filing history
+No eligibility screening - the firm does not check your prior filing history
 
-High-volume processing -- you never meet the attorney who signs your petition
+High-volume processing - you never meet the attorney who signs your petition
 
-No discussion of Chapter 7 -- Chapter 13 is presented as the only option without analysis
+No discussion of Chapter 7 - Chapter 13 is presented as the only option without analysis
 
-Upfront fees for a "guaranteed" outcome -- no attorney can guarantee a discharge
+Upfront fees for a "guaranteed" outcome - no attorney can guarantee a discharge
 
-You cannot reach your attorney after filing -- lack of communication during the case
+You cannot reach your attorney after filing - lack of communication during the case
 
-Multiple prior dismissals -- if you have filed and been dismissed before, the same approach is unlikely to work
+Multiple prior dismissals - if you have filed and been dismissed before, the same approach is unlikely to work
 
 If You Have Been Dismissed
 
 If your Chapter 13 case was dismissed, you should:
 
-Understand why -- review the court's dismissal order for the specific reason
+Understand why - review the court's dismissal order for the specific reason
 
-Check for time bars -- if you file again, sections 109(g) and 362(c) may limit your automatic stay protection
+Check for time bars - if you file again, sections 109(g) and 362(c) may limit your automatic stay protection
 
-Evaluate your attorney -- did they communicate with you during the case? Did they file all required documents on time?
+Evaluate your attorney - did they communicate with you during the case? Did they file all required documents on time?
 
-Consider alternatives -- Chapter 7, debt negotiation, or state court remedies may be more appropriate
+Consider alternatives - Chapter 7, debt negotiation, or state court remedies may be more appropriate
 
-File a complaint if appropriate -- if your attorney failed to perform basic duties, consider filing a complaint with the state bar
+File a complaint if appropriate - if your attorney failed to perform basic duties, consider filing a complaint with the state bar
 
 The Pro Se Problem
 
-Over 53% of Chapter 13 filers in EDNY have no attorney. Chapter 13 is one of the most complex areas of consumer law -- it involves a 3-5 year repayment plan, ongoing trustee oversight, and dozens of procedural requirements. Filing without an attorney in this district has a very low success rate.
+Over 53% of Chapter 13 filers in EDNY have no attorney. Chapter 13 is one of the most complex areas of consumer law - it involves a 3-5 year repayment plan, ongoing trustee oversight, and dozens of procedural requirements. Filing without an attorney in this district has a very low success rate.
 
 If you cannot afford an attorney, explore legal aid options on the resources page before filing pro se.
 
-Check Your Eligibility -- Free Screener
+Check Your Eligibility - Free Screener
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
@@ -526,140 +678,72 @@ Relief from Automatic Stay -- relieffromstay.org
 
 ---
 
-## New York Bankruptcy Resources -- Courts, Legal Aid, Free Tools | Bankruptcy New York
-Source: https://bankruptcynewyork.org/resources.html
+## Privacy Policy - bankruptcynewyork.org
+Source: https://bankruptcynewyork.org/privacy.html
 
-Bankruptcy New York
-HomeStatisticsWhat to KnowResourcesOBP
+bankruptcynewyork.org
 
-New York Bankruptcy Resources
+Home
+Privacy
 
-Courts, legal aid organizations, free tools, and research resources for New York bankruptcy filers.
+Privacy Policy
 
-Federal Bankruptcy Courts -- New York
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
 
-Eastern District of New York (EDNY)
+Data We Collect
 
-nyeb.uscourts.gov
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
 
-Brooklyn: 271-C Cadman Plaza East, Brooklyn, NY 11201. Central Islip: 290 Federal Plaza, Central Islip, NY 11722.
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
 
-Southern District of New York (SDNY)
+What We Don't Do
 
-nysb.uscourts.gov
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
 
-One Bowling Green, New York, NY 10004.
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
 
-Western District of New York (WDNY)
+Cookies
 
-nywb.uscourts.gov
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
 
-Olympic Towers, 300 Pearl Street, Buffalo, NY 14202.
+Third-Party Services
 
-Northern District of New York (NDNY)
+Google Analytics (GA4) - aggregate traffic measurement
 
-nynb.uscourts.gov
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
 
-James T. Foley U.S. Courthouse, 445 Broadway, Albany, NY 12207.
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
 
-Legal Aid and Pro Bono Services
+GitHub Pages - hosting
 
-Legal Aid Society -- New York City
+Contact Forms & Email
 
-legalaidnyc.org
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
 
-Free legal services for low-income New Yorkers. Civil practice includes bankruptcy assistance.
+Children's Privacy
 
-New York Legal Assistance Group (NYLAG)
+This site is not directed at children under 13. We do not knowingly collect information from children.
 
-nylag.org
+Data Retention
 
-Free bankruptcy clinics and full-representation bankruptcy assistance for qualifying individuals.
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
 
-Brooklyn Bar Association Volunteer Lawyers Project
+Your Rights
 
-brooklynbar.org
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
 
-Pro bono legal assistance including bankruptcy matters for qualifying Brooklyn residents.
+Network Policy
 
-Nassau/Suffolk Law Services
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
-nslawservices.org
+Changes
 
-Free civil legal services for Long Island residents, including bankruptcy assistance.
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
 
-Free Screening and Research Tools
+Effective: March 30, 2026  |  Updated: April 11, 2026
 
-1328(f) Discharge Eligibility Screener
+Home  ·  Privacy  ·  Open Bankruptcy Project
 
-1328f.com
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
 
-Free tool to check whether a prior discharge creates a time bar under 11 U.S.C. section 1328(f). Runs entirely in your browser -- no data collected.
-
-Open Bankruptcy Project
-
-openbankruptcyproject.org
-
-National research platform analyzing Chapter 13 outcomes across all 94 federal districts. Open-source data and methodology.
-
-1328(f) Research Platform
-
-1328f.org
-
-In-depth research on repeat filing patterns and 1328(f) eligibility violations in the federal bankruptcy system.
-
-Federal Resources
-
-U.S. Trustee Program
-
-justice.gov/ust
-
-The DOJ component responsible for overseeing the administration of bankruptcy cases. File complaints about attorney misconduct or trustee issues.
-
-PACER -- Public Access to Court Electronic Records
-
-pacer.uscourts.gov
-
-Access federal court records including bankruptcy dockets. Fee-based ($0.10/page, capped at $3.00/document).
-
-Federal Judicial Center -- Integrated Database
-
-fjc.gov/research/idb
-
-The source database for all statistics on this site. Public data on all federal court cases.
-
-More from the OBP Network
-
-Chapter 7 vs. Chapter 13
-
-chapter7vs13.org
-
-Side-by-side comparison to help understand which chapter may be appropriate.
-
-Bankruptcy Dismissed -- What Now?
-
-bankruptcydismissed.com
-
-Information for people whose bankruptcy case was dismissed -- next steps and options.
-
-Can I File Bankruptcy Again?
-
-filebankruptcyagain.com
-
-Time bar rules and eligibility information for repeat filers.
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-An Open Bankruptcy Project resource
-
-This is general information, not legal advice. Consult a qualified attorney.
-
-© 2026 Open Bankruptcy Project
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Free Means Test Calculator -- meanstest.org
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+No ads. No affiliate links. No data sold. Supported by donations.
