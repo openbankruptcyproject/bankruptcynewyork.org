@@ -1,7 +1,7 @@
 # New York Bankruptcy Statistics - Chapter 13 Dismissal Rates [2026]
 > Last updated: 2026-05-01
 
-> New York bankruptcy statistics from 4.9M federal cases. Chapter 13 dismissal rates, filing trends, and outcome data analyzed by the Open Bank...
+> New York bankruptcy statistics from 8M federal cases. Chapter 13 dismissal rates, filing trends, and outcome data analyzed by the Open Bank...
 
 ## About
 bankruptcynewyork.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
@@ -19,4 +19,4 @@ bankruptcynewyork.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - GitHub: https://github.com/openbankruptcyproject
 
 ## License
-Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (8M cases, 94 districts).
