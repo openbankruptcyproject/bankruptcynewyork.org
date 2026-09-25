@@ -1,6 +1,6 @@
 # bankruptcynewyork.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on bankruptcynewyork.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -14,7 +14,7 @@ Source: https://bankruptcynewyork.org/
 Skip to main content
 
 Bankruptcy New York
-HomeStatisticsWhat to KnowResourcesOBP Rule 9037 PII Scanner
+HomeStatisticsWhat to KnowResourcesOBP Rule 9037 Compliance Guide
 
 New York Bankruptcy Statistics - Chapter 13 Dismissal Data
 
@@ -45,6 +45,8 @@ Pro Se (No Attorney)
 #1
 
 Highest Nationally
+
+The E.D.N.Y. has an 85.6% Chapter 13 dismissal rate based on mature 2008-2019 data where most cases have reached final disposition. 52,527 total cases were filed between 2008 and 2024. Recent years show higher preliminary rates because successful 3-5 year plans are still active.
 
 EDNY Dismissal Rate by Year (2008--2024)
 
@@ -164,19 +166,33 @@ Dismissed?
 Cost
 File Again?
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
 
-Privacy Policy
+♥ Donate
 
-Cited by the Federal Rules Committee (26-BK-3)
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 Have a Question?
 
@@ -262,6 +278,28 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
 ---
 
 ## New York Bankruptcy Resources - Courts, Legal Aid, Free Tools | Bankruptcy New York
@@ -275,6 +313,8 @@ Home›New York Bankruptcy Resources - Courts, Legal Aid, Free Tools | Bankruptc
 New York Bankruptcy Resources
 
 Courts, legal aid organizations, free tools, and research resources for New York bankruptcy filers.
+
+bankruptcydismissed.com Information for people whose bankruptcy case was dismissed - next steps and options.
 
 Federal Bankruptcy Courts - New York
 
@@ -388,13 +428,33 @@ filebankruptcyagain.com
 
 Time bar rules and eligibility information for repeat filers.
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This is general information, not legal advice. Consult a qualified attorney.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -406,7 +466,7 @@ Free Means Test Calculator -- meanstest.org
 
 ---
 
-## EDNY Chapter 13 Statistics - Year-by-Year Data | Bankruptcy New York
+## EDNY Chapter 13 Statistics [2026]: Year-by-Year Filing and Dismissal Data
 Source: https://bankruptcynewyork.org/statistics.html
 
 Bankruptcy New York
@@ -528,17 +588,33 @@ Explore the full methodology and national data at the Open Bankruptcy Project.
 
 Visit OBP
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data: Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-Not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project
+Privacy |
+Terms
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -552,7 +628,7 @@ Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
 ---
 
-## What to Know About Chapter 13 in New York - Consumer Guide | Bankruptcy New York
+## Chapter 13 in New York [2026]: NY Exemptions, EDNY Local Rules, and Filing Timeline
 Source: https://bankruptcynewyork.org/what-to-know.html
 
 Bankruptcy New York
@@ -567,6 +643,8 @@ If you are considering Chapter 13 bankruptcy in New York - or have already filed
 Key District Data
 
 In the Eastern District of New York, 99.2% of Chapter 13 cases filed in 2023 and 2024 ended in dismissal (preliminary data - active plans may still reach discharge). Over 53% of filers had no attorney. Nearly half were repeat filers. This district has the highest Chapter 13 dismissal rate in the federal court system.
+
+Any attorney should be able to tell you how many of their Chapter 13 cases result in discharge vs. dismissal. Compare their answer to the district average.
 
 What Does "Dismissed" Mean?
 
@@ -660,13 +738,33 @@ If you cannot afford an attorney, explore legal aid options on the resources pag
 
 Check Your Eligibility - Free Screener
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This is general information, not legal advice. Consult a qualified attorney.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -736,7 +834,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -746,6 +844,61 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About bankruptcynewyork.org
+Source: https://bankruptcynewyork.org/about.html
+
+bankruptcynewyork.org
+
+Home
+About
+Privacy
+
+About bankruptcynewyork.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+bankruptcynewyork.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.

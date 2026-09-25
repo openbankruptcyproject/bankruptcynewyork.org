@@ -1,7 +1,7 @@
 # New York Bankruptcy Statistics - Chapter 13 Dismissal Rates [2026]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
-> New York bankruptcy statistics from 8M federal cases. Chapter 13 dismissal rates, filing trends, and outcome data analyzed by the Open Bank...
+> New York bankruptcy statistics from 8M federal cases.
 
 ## About
 bankruptcynewyork.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
@@ -9,9 +9,10 @@ bankruptcynewyork.org is part of the Open Bankruptcy Project (openbankruptcyproj
 ## Key Pages
 - New York Bankruptcy Statistics - Chapter 13 Dismissal Rates: https://bankruptcynewyork.org/
 - New York Bankruptcy Resources - Courts, Legal Aid, Free Tools | Bankruptcy New York: https://bankruptcynewyork.org/resources.html
-- EDNY Chapter 13 Statistics - Year-by-Year Data | Bankruptcy New York: https://bankruptcynewyork.org/statistics.html
-- What to Know About Chapter 13 in New York - Consumer Guide | Bankruptcy New York: https://bankruptcynewyork.org/what-to-know.html
+- EDNY Chapter 13 Statistics [2026]: Year-by-Year Filing and Dismissal Data: https://bankruptcynewyork.org/statistics.html
+- Chapter 13 in New York [2026]: NY Exemptions, EDNY Local Rules, and Filing Timeline: https://bankruptcynewyork.org/what-to-know.html
 - Privacy Policy: https://bankruptcynewyork.org/privacy.html
+- About bankruptcynewyork.org: https://bankruptcynewyork.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
